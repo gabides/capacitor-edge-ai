@@ -1,0 +1,7 @@
+{
+  "name": "Capacitor Edge AI",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
